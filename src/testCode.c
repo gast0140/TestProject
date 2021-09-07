@@ -24,5 +24,7 @@ int main () {
 	printf ("Hello World");
 	printf ("\nHere is another line");
 	printf ("\nYet another line is here");
+	printf ("\nyou will forget everything you have done so far wont you??");
+
 	return  0;
 }
